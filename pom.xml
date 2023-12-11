@@ -99,7 +99,7 @@
                         <argument>--module-path</argument>
                         <argument>${project.build.directory}/distribution</argument>
                         <argument>--module</argument>
-                        <argument>com.pi4j.example/com.pi4j.example.MinimalExample</argument>
+                        <argument>com.pi4led/com.pi4led.MinimalExample</argument>
                     </arguments>
                 </configuration>
             </plugin>
